@@ -75,4 +75,4 @@ Contributions are welcome! Please fork this repository and submit a pull request
 This project is licensed under the MIT License.
 
 ## 📧 Contact
-If you have any questions or suggestions, feel free to reach out at `khanaasif1065@gmail.com`.
+If you have any questions or suggestions, feel free to reach out at `aryansinghaniya2004@gmail.com`.
